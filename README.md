@@ -214,6 +214,113 @@ Here you will get awesome collection of mostly all well-known and usefull cybers
 53) [Linux_Basics_for_Hackers_Getting_Started_with_Networking,_Scripting.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089293/Linux_Basics_for_Hackers_Getting_Started_with_Networking._Scripting.pdf)
 
 
+54) [D1T2_Philippe_Langlois_Hacking_HLR_HSS_and_MME_Core_Network_Elements.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089847/D1T2_Philippe_Langlois_Hacking_HLR_HSS_and_MME_Core_Network_Elements.pdf)
+
+
+
+
+55) [HAXPO D1 - Hacking LTE Public Warning Systems - Weiguang Li.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089848/HAXPO.D1.-.Hacking.LTE.Public.Warning.Systems.-.Weiguang.Li.pdf)
+
+
+
+56) [WiFi_Hacking_for_Beginners_Learn(1).pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089849/WiFi_Hacking_for_Beginners_Learn.1.pdf)
+
+
+57) [WiFi(HackProofYourWirelessNetwork).pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089852/WiFi.HackProofYourWirelessNetwork.pdf)
+
+
+
+58) [Understanding_Network_Hacks_Attack_and_Defense_with_Python_Bastian.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089853/Understanding_Network_Hacks_Attack_and_Defense_with_Python_Bastian.pdf)
+
+
+
+59) [Ultimate_Linux_Projects_First_Edition_2022_etc_z_lib_org.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089855/Ultimate_Linux_Projects_First_Edition_2022_etc_z_lib_org.pdf)
+
+
+
+60) [The_NICE_Cyber_Security_Framework_Cyber_Security_Intelligence_and.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089858/The_NICE_Cyber_Security_Framework_Cyber_Security_Intelligence_and.pdf)
+
+
+
+61)  [The_Basics_Of_Hacking_And_Penetration_Testing_Ethical_Hacking_And.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089860/The_Basics_Of_Hacking_And_Penetration_Testing_Ethical_Hacking_And.pdf)
+
+
+
+
+62) [RE_for_beginners-en.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089862/RE_for_beginners-en.pdf)
+
+
+
+63) [Perl Programming for Beginners.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089863/Perl.Programming.for.Beginners.pdf)
+
+
+
+64) [ML_download.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089864/ML_download.pdf)
+
+
+65) [malwaredatascience.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089866/malwaredatascience.pdf)
+
+
+
+66)  [long_short_term_memory_networks_with_python.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089869/long_short_term_memory_networks_with_python.pdf)
+
+
+67) [Linux_system_programming_talking_directly_to_the_kernel_and_C_library.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089873/Linux_system_programming_talking_directly_to_the_kernel_and_C_library.pdf)
+
+68) [Linux_Command_Line_and_Shell_Scripting_Bible_Richard_Blum,_Christine.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089875/Linux_Command_Line_and_Shell_Scripting_Bible_Richard_Blum._Christine.pdf)
+
+69) [Kali_Linux_Wireless_Pentesting_and_Security_for_Beginners_@VPPOfficial.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089876/Kali_Linux_Wireless_Pentesting_and_Security_for_Beginners_%40VPPOfficial.pdf)
+
+
+70) [Hide Data in AUDfile.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089878/Hide.Data.in.AUDfile.pdf)
+
+
+71) [Hacking Android.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089879/Hacking.Android.pdf)
+
+
+
+72) [Google Hacking for Penetration Testers Volume2 .pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089880/Google.Hacking.for.Penetration.Testers.Volume2.pdf)
+
+
+
+73) [Deep_learning_with_python--develop_deep.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089884/Deep_learning_with_python--develop_deep.pdf)
+
+
+74) [Data Analysis For Network Cyber-Security.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089885/Data.Analysis.For.Network.Cyber-Security.pdf)
+
+
+75) [Dark_Web_Exploring_and_Data_Mining_the_Dark_Side_of_the_Web_@HackingCraze.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089887/Dark_Web_Exploring_and_Data_Mining_the_Dark_Side_of_the_Web_%40HackingCraze.pdf)
+
+
+76) [Cybersecurity_–_Attack_and_Defense_Strategies_Infrastructure_security.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089889/Cybersecurity_._Attack_and_Defense_Strategies_Infrastructure_security.pdf)
+
+
+77) [Cyber Security_ Analytics, Technology and Automation.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089890/Cyber.Security_.Analytics.Technology.and.Automation.pdf)
+
+
+78) [010SessionHijacking.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089894/010SessionHijacking.pdf)
+
+
+79) [009DOS LAB.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089895/009DOS.LAB.pdf)
+
+
+80) [007Sniffers LAB.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089897/007Sniffers.LAB.pdf)
+
+
+
+81) [005System Hacking LAB.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089899/005System.Hacking.LAB.pdf)
+
+
+82) [005Metasploit Framework.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089903/005Metasploit.Framework.pdf)
+
+
+83) [002Foot Printing and Reconnaissance LAB.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089906/002Foot.Printing.and.Reconnaissance.LAB.pdf)
+
+84) [001Introduction To Ethical Hacking.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089909/001Introduction.To.Ethical.Hacking.pdf)
+
+
+
+
 
 
 
